@@ -1,0 +1,7 @@
+C:\Users\TU PANQUI MAS NAKI\source\repos\Navegador Web\Navegador Web\bin\Debug\Navegador Web.exe.config
+C:\Users\TU PANQUI MAS NAKI\source\repos\Navegador Web\Navegador Web\bin\Debug\Navegador Web.exe
+C:\Users\TU PANQUI MAS NAKI\source\repos\Navegador Web\Navegador Web\bin\Debug\Navegador Web.pdb
+C:\Users\TU PANQUI MAS NAKI\source\repos\Navegador Web\Navegador Web\obj\Debug\Navegador Web.csprojResolveAssemblyReference.cache
+C:\Users\TU PANQUI MAS NAKI\source\repos\Navegador Web\Navegador Web\obj\Debug\Navegador Web.csproj.CoreCompileInputs.cache
+C:\Users\TU PANQUI MAS NAKI\source\repos\Navegador Web\Navegador Web\obj\Debug\Navegador Web.exe
+C:\Users\TU PANQUI MAS NAKI\source\repos\Navegador Web\Navegador Web\obj\Debug\Navegador Web.pdb
